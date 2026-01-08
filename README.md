@@ -1,4 +1,4 @@
-# Game Asset & Disk Usage Analyzer (CLI)
+# File Search System & Disk Usage Analyzer (CLI)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue) ![Libraries](https://img.shields.io/badge/Library-NumPy%20%7C%20Matplotlib-orange) ![Focus](https://img.shields.io/badge/Focus-Optimization%20%26%20Statistics-green)
 
